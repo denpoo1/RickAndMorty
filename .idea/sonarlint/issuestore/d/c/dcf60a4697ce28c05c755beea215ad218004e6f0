@@ -1,0 +1,10 @@
+
+}
+java:S1118":Add a private constructor to hide the implicit public one.(¬˜Êœ8´¿¦Áü1J$0d6fd3cb-a434-44ca-bb43-3d9939672bd8
+m	java:S106E"+Replace this use of System.out by a logger.(û¨¸¿8Äö´Áü1J$a3495c4b-6a97-418a-a4f2-bf245c277e64
+w
+java:S1874L"4Remove this use of "saveOrUpdate"; it is deprecated.(¡ï»ú8Åö´Áü1J$39396411-1e7b-45e2-af53-32c45f485a8e
+|
+java:S1874M"4Remove this use of "saveOrUpdate"; it is deprecated.(úš¥ıÿÿÿÿ8Æö´Áü1J$d268ebcd-9b8d-44d0-9c8b-ebd383a360fb
+|
+java:S1874N"4Remove this use of "saveOrUpdate"; it is deprecated.(ÅáÖçûÿÿÿÿ8Æö´Áü1J$fb74c798-6dea-41b4-8f4b-26439363f35e
