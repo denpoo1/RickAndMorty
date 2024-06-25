@@ -1,4 +1,4 @@
-# APP URI: [![GCP App URI]([https://rick-and-morty-7mcas7jnoq-uc.a.run.app)) 
+# APP URI: https://rick-and-morty-7mcas7jnoq-uc.a.run.app 
 
 # Rick and Morty Character Search Project Overview
 
